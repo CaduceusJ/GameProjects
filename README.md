@@ -20,3 +20,12 @@ Estou montando e estabelecendo o sistema de combates em turno muito inspirado em
 Quatro Poções já foram criadas, com seus respectivos efeitos já sendo utilizados.
 
 ![image](https://user-images.githubusercontent.com/85528178/174455293-3a4db3c7-afac-41fa-b426-672e64bbcf3c.png)
+
+O dano no alvo já está atualizando seu HP e sua Barra de Vida
+
+![image](https://user-images.githubusercontent.com/85528178/174455558-fb5c47b9-e485-481c-b791-2b2d8957fd66.png)
+
+Segue abaixo um vídeo com uma prévia, do que foi feito até agora:
+
+https://user-images.githubusercontent.com/85528178/174456113-11e68c8a-4ef7-4b2b-8ba5-5f41c4bb93f9.mp4
+
