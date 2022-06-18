@@ -10,7 +10,11 @@ My Game Projects Repository
  
  
  ![image](https://user-images.githubusercontent.com/85528178/173860856-1777d3d8-6449-48b5-8b2c-dc4bedf7dfbe.png)
-TIME MIX
+TIME MIX, utilizando a Engine Godot
+
+
 
 Estou montando e estabelecendo o sistema de combates em turno muito inspirado em Pokemon, para um projeto de jogo da faculdade
+Quatro Poções já foram criadas, com seus respectivos efeitos já sendo utilizados.
 
+![image](https://user-images.githubusercontent.com/85528178/174455293-3a4db3c7-afac-41fa-b426-672e64bbcf3c.png)
