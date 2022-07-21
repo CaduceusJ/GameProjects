@@ -31,3 +31,5 @@ Segue abaixo um vídeo com uma prévia, do que foi feito até agora:
 
 https://user-images.githubusercontent.com/85528178/174456113-11e68c8a-4ef7-4b2b-8ba5-5f41c4bb93f9.mp4
 
+Foi implementado também um sistema de livros e um menu criados pela minha pessoa, que foram integrados ao openworld de nosso trabalho, o resto do progresso feito pode ser visto abaixo:
+https://github.com/renyiblack/Time-Mix/releases/tag/1.0.0
