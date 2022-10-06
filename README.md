@@ -33,3 +33,18 @@ https://user-images.githubusercontent.com/85528178/174456113-11e68c8a-4ef7-4b2b-
 
 Foi implementado também um sistema de livros e um menu criados pela minha pessoa, que foram integrados ao openworld de nosso trabalho, o resto do progresso feito pode ser visto abaixo:
 https://github.com/renyiblack/Time-Mix/releases/tag/1.0.0
+
+
+
+
+
+**SHOOTER 2D**
+
+
+Buscando aprofundar meus conhecimentos para uma gamejam que irei participar, estou impulsionando meu aprendizado em 2d tentando fazer um game top down Shooter, estarei colocando os progressos que realizei com o tempo!.
+
+
+
+
+
+
