@@ -10,6 +10,8 @@ My Game Projects Repository
  
  Todos nós estamos em constante evolução logo busco cada vez mais aprender com minhas experiências.
  
+ **TIME MIX**
+ 
  
  ![image](https://user-images.githubusercontent.com/85528178/173860856-1777d3d8-6449-48b5-8b2c-dc4bedf7dfbe.png)
  
