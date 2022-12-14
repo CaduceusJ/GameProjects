@@ -47,6 +47,16 @@ Buscando aprofundar meus conhecimentos para uma gamejam que irei participar, est
 
 
 
+**BARONEZA**
+
+Atualmente meu projeto principal é o Baroneza com o qual estou dando grande parte do meu tempo livre para focar em seu desempenho.
+
+Baroneza se trata de um Top Down Shooter 2D com alguns elementos de Bullet Hell, tinhamos ideia inicial de focar em implementar geração procedural em algumas fases, mas optamos por um jogo mais linear nesse aspecto porém com um foco em entregar fases bem planejadas e com foco em entregar uma narrativa juntamente ao cenário.
+
+A versão base que foi feita na Game Jam Plus 2022 já está disponível e pode ser acessada em meu Github Page.
+
+**caduceusj.github.io**
+
 
 
 
