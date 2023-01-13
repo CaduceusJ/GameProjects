@@ -55,6 +55,8 @@ Baroneza se trata de um Top Down Shooter 2D com alguns elementos de Bullet Hell,
 
 A versão base que foi feita na Game Jam Plus 2022 já está disponível e pode ser acessada em meu Github Page.
 
+Minha participação no jogo se concentra principalmente em Game Design e Programação
+
 **caduceusj.github.io**
 
 
