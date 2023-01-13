@@ -58,5 +58,10 @@ A versão base que foi feita na Game Jam Plus 2022 já está disponível e pode 
 **caduceusj.github.io**
 
 
+**Vídeo de Gameplay Teste da Versão Atual do Baroneza**
+
+
+[screen-capture (5).webm](https://user-images.githubusercontent.com/85528178/212312002-0ff13463-61ca-418a-870d-4e624b7b7058.webm)
+
 
 
