@@ -57,6 +57,8 @@ A versão base que foi feita na Game Jam Plus 2022 já está disponível e pode 
 
 Minha participação no jogo se concentra principalmente em Game Design e Programação
 
+Realizei a programação dos inimigos, de parte das movimentações das luzes e dos cenários, dos tiros do protagonista, da organização dos sprites, da introdução do jogo e das cutscenes e a implementação dos sons fornecidos por nosso engenheiro de som
+
 **caduceusj.github.io**
 
 **Vídeo de Gameplay da Versão ATUAL do Baroneza feito durante a Incubação**
