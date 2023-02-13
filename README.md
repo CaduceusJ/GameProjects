@@ -59,6 +59,11 @@ Minha participação no jogo se concentra principalmente em Game Design e Progra
 
 **caduceusj.github.io**
 
+**Vídeo de Gameplay da Versão ATUAL do Baroneza feito durante a Incubação**
+
+[screen-capture (16).webm](https://user-images.githubusercontent.com/85528178/218483242-b3d356fd-f55d-4da5-aeef-5c4ac9acf093.webm)
+
+
 
 **Vídeo de Gameplay da Versão ANTIGA do Baroneza**
 
