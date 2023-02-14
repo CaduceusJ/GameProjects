@@ -57,7 +57,9 @@ A versão base que foi feita na Game Jam Plus 2022 já está disponível e pode 
 
 Minha participação no jogo se concentra principalmente em Game Design e Programação
 
-Realizei a programação dos inimigos, de parte das movimentações das luzes e dos cenários, dos tiros do protagonista, da organização dos sprites, da introdução do jogo e das cutscenes e a implementação dos sons fornecidos por nosso engenheiro de som
+Realizei a programação do personagem principal, dos inimigos,  das movimentações das luzes e dos cenários, dos tiros do protagonista, da organização dos sprites, da introdução do jogo e das cutscenes e a implementação dos sons fornecidos por nosso engenheiro de som.
+
+Certamente foi o projeto que eu mais participei no desenvolvimento quando o assunto é jogos digitais
 
 **caduceusj.github.io**
 
