@@ -61,7 +61,7 @@ Realizei a programação do personagem principal, dos inimigos,  das movimentaç
 
 Certamente foi o projeto que eu mais participei no desenvolvimento quando o assunto é jogos digitais
 
-**caduceusj.github.io**
+**https://caranguedev.itch.io/baroneza**
 
 **Vídeo de Gameplay da Versão ATUAL do Baroneza feito durante a Incubação**
 
