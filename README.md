@@ -10,6 +10,15 @@ My Game Projects Repository
  
  Todos nós estamos em constante evolução logo busco cada vez mais aprender com minhas experiências.
  
+ 
+ **Atualmente estou aprendendo Unity através do ótimo curso de Unity Essentials fornecido pelo próprio site**
+ 
+ Segue abaixo alguns testes que estou fazendo enquanto cultivo cada vez mais conhecimento sobre a Engine
+ 
+ [screen-capture (17).webm](https://user-images.githubusercontent.com/85528178/221886043-5cd34b6f-295c-4ff1-8b2e-c324e386de32.webm)
+
+ 
+ 
  **TIME MIX**
  
  
